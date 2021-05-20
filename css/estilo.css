@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    padding: 16px 0;
+    background-color: blueviolet;
+}
+
+.quadrado{
+    width: 80%;
+    height: 600px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
